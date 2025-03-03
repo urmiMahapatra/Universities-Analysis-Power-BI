@@ -1,0 +1,14 @@
+Problem Statement 1:
+ Objective: Advanced Visualizations.
+ Use Case: Design a dashboard to analyze the trend of admissions into state
+ universities.
+ Source: USA StateUniversity Admissions
+ Analytics: Use expressions and filters to build custom visualizations
+
+Problem Statement 2:
+Use Case: Top Down and Bottoms Up Analysis to identify shipping costs
+ leakages
+ Source: Superstore sales
+ Analytics: Build a set of visualizations to identify underlying outliers and flip the
+ same set of visualizations to perform bottom up analysis.
+
